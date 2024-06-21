@@ -1,6 +1,6 @@
-# Project Title
+# WasteToTest ML
 
-A brief description of your project.
+A building machine learning part of WasteToTest project
 
 ## Repository Structure
 
